@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ali ELKAROUAOUI</h1>
-<h3 align="center">A passionate fullstack developer and data scientist from Morocco</h3>
+<h3 align="center">I am Ali ELKAROUAOUI. I'm honing my skills to become a Proficient Software Engineer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AnasImloul&label=Profile%20views&color=0e75b6&style=flat" alt="Ali ELKAROUAOUI" /> </p>
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alidev11&label=Profile%20views&color=0e75b6&style=flat" alt="alidev11" /> </p>
+<h3 align="left">👨🏻‍💻  About Me</h3>
+ 💡  I enjoy learning about new technologies.<br>
+🎓  I'm pursuing my engineering degree in Product Owner Assistance at Morocco's National Institute of Posts and Telecommunications in Rabat.<br>
+🌱  I am currently learning about microservices architecture, software design patterns, systems architecture.<br>
+✍️  In my spare time, I am very interested in competitive programming and problem solving.<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alidev11" alt="alidev11" /></a> </p>
 
-- 🔭 I’m currently working on **my 3D portfolio website**
-
-- 🌱 I’m currently learning **Data science, Three.js**
-
-- 📫 How to reach me **elkarouaoui.ali@gmail.com**
+<br><br>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="330px" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
