@@ -7,8 +7,8 @@
 <h3 align="left">👨🏻‍💻  About Me</h3>
  💡  I enjoy learning about new technologies.<br>
 🎓  I'm pursuing my engineering degree in Product Owner Assistance at Morocco's National Institute of Posts and Telecommunications in Rabat.<br>
-🌱  I am currently learning about microservices architecture, software design patterns, systems architecture.<br>
-✍️  In my spare time, I am very interested in competitive programming and problem solving.<br>
+🌱  I am currently learning about Spring, Compilers and Operating Systems.<br>
+✍️  In my spare time, I am very interested in operating systems and how they use hardware.<br>
 
 
 <br><br>
