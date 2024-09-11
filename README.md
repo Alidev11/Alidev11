@@ -13,7 +13,7 @@
  💡  I enjoy learning about new technologies.<br>
 🎓  I'm pursuing my engineering degree in Product Owner Assistance at Morocco's National Institute of Posts and Telecommunications in Rabat.<br>
 🌱  I am currently learning about Spring, Compilers and Operating Systems.<br>
-✍️  In my spare time, I am very interested in operating systems and how they use hardware.<br>
+✍️  In my spare time, I am interested in working out.<br>
 
 <!-- coding gif -->
 <br><br>
