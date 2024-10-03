@@ -56,3 +56,4 @@
   <a href="https://linkedin.com/in/ali-elkarouaoui" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40" width="120" /></a>
   <a href="https://ali-elkarouaoui.vercel.app/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20190319/ourmid/pngtree-vector-web-icon-png-image_847779.jpg" alt="personal-website" height="40" width="40" /></a>
 </p>
+![](https://hit.yhype.me/github/profile?user_id=87399390)
