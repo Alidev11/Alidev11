@@ -33,10 +33,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/Alidev11">
-  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alidev11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alidev11&layout=compact&langs_count=8&theme=radical&count_private=true"/>
-</a>
+
 </p>
 <br><br>
 
