@@ -33,14 +33,15 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-
+<a href="https://github.com/Alidev11">
+  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alidev11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alidev11&layout=compact&langs_count=8&theme=radical&count_private=true"/>
+</a>
 </p>
 <br><br>
 
-<!-- current streak -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alidev11&theme=radical&hide_border=true&stroke=0000&background=0D1117&bg_color=30,e96443,904e95" alt="Alidev11" /></p>
-
 <!-- Connect with me -->
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -53,4 +54,3 @@
   <a href="https://linkedin.com/in/ali-elkarouaoui" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40" width="120" /></a>
   <a href="https://ali-elkarouaoui.vercel.app/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20190319/ourmid/pngtree-vector-web-icon-png-image_847779.jpg" alt="personal-website" height="40" width="40" /></a>
 </p>
-![](https://hit.yhype.me/github/profile?user_id=87399390)
