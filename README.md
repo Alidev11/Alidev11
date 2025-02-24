@@ -12,7 +12,7 @@
 <h3 align="left">👨🏻‍💻  About Me</h3>
  💡  I enjoy learning about new technologies.<br>
 🎓  I'm pursuing my engineering degree in Product Owner Assistance at Morocco's National Institute of Posts and Telecommunications in Rabat.<br>
-🌱  I am currently learning about Spring, Compilers and Operating Systems.<br>
+🌱  I am currently learning about Spring boot, Internet, Golang, Compilers and Operating Systems.<br>
 ✍️  In my spare time, I am interested in working out.<br>
 
 <!-- coding gif -->
