@@ -13,8 +13,11 @@
  💡  I enjoy learning new technologies.<br>
 🌱  I am currently learning Golang and doing some system programming.<br>
 
+<br>
+
+---
 <!-- coding gif -->
-<br><br>
+<br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="330px" align="right"/>
 <br><br>
 <br>
@@ -34,22 +37,29 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </p>
+<br>
 
+---
 
 <!-- Github analytics -->
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ Stats
 
-<p align="left">
-<a href="https://github.com/Alidev11">
-  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alidev11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alidev11&layout=compact&langs_count=8&theme=radical&count_private=true"/>
-</a>
-</p>
-<br><br>
+<div align="center">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Alidev11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
+  
+  <!-- Unfortunately, Top Languages does NOT include private repositories -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alidev11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph (public repos only)"  />
+  <img height="150" src="https://streak-stats.demolab.com?user=Alidev11&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  
+  <!-- <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alidev11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alidev11&layout=compact&langs_count=8&theme=radical&count_private=true"/> -->
+</div>
+<br>
 
 <!-- Connect with me -->
 
 <!--h2 without bottom border-->
+---
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
